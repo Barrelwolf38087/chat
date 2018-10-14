@@ -7,7 +7,7 @@
 const net = require("net");
 const readline = require("readline");
 
-const settings = require("./settings.json");
+const settings = require("./server-config.json");
 const meta = require("./meta.json");
 
 // validation
